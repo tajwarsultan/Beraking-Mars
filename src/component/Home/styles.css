@@ -1,0 +1,21 @@
+.home {
+  background-image: url(../../static/bg1.svg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 75vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home h2 {
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  color: #ffff;
+}
+.yellow {
+  color: yellow;
+  text-decoration: underline;
+}
